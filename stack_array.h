@@ -1,5 +1,5 @@
 //
-// Created by roywa on 8/4/2024.
+// Created by Selene Hienclone on 8/4/2024.
 //
 
 #ifndef STACK_ARRAY_H
